@@ -9,7 +9,7 @@ CE888 repository
  2) The 'Fire vs No Fire" dataset can be found in the below link to download:
 https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs
 
-3)Code descrition:
+3) Code descrition:
 * The required files are imported first after which the glob funtion is used to retrieve the folder.
 * We look into the Training folder which consists of two folder which is fire and No Fire.
 * The number of images in Fire and No Fire folders are checked for imbalance in the dataset
