@@ -4,14 +4,15 @@ CE888 repository
  1) CE888 Assignment 2:
  
  Please note that the link to the code is as follows:
- https://github.com/RitikaVinayakamurthy/CE888/blob/main/new/main/CE888Assignment1.ipynb
+https://github.com/RitikaVinayakamurthy/CE888/blob/main/CE888Assignment2/2003204Assignment%202.ipynb
  
  2) The 'Fire vs No Fire" dataset can be found in the below link to download:
 https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs
 
 3) Code descrition:
-* The files are imported from into the dataset which is done separately for training and test sets
-* We look into the Training folder which consists of two folder which is fire and No Fire.
+* The files are imported from into the dataset from the google drive which is done separately for training and test sets
+* Please load the dataset onto your google drive before running the code 
+* We first look into the Training folder which consists of two folder which is fire and No Fire.
 * The number of images in Fire and No Fire folders are checked for imbalance in the dataset
 * Random images are checked and labeled for refernecing
 * A single image has been read using PIL function to check dimensions and mode.
